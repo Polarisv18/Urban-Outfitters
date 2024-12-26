@@ -1,6 +1,6 @@
 # Final Project Group 6
 
-This is a PHP-based web application aimed at streamlining the purchasing process and providing a seamless and enjoyable journey for shoppers. 
+This is a PHP-based web application aimed at streamlining the purchasing process and providing a seamless and enjoyable journey for shoppers. Video demonstration is here: https://www.youtube.com/watch?v=miP9k0Mk0gQ 
 
 ## Features
 - **Browse the Catalog**: Customers can browse items without logging in.
